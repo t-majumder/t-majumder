@@ -1,16 +1,16 @@
 # P O R T P H O L I O
 Professional Profile:
 
-- - - - - Resumes: https://github.com/i-majumder/Resume-tamal - - - - -
+Resumes: https://github.com/i-majumder/Resume-tamal
 Name: Tamal Majumder 👨‍🎓
----
+___
 Aspiring Data Scientist 📊 | MSc. Physics 🌌
 Email: @gmail.com | LinkedIn Profile: https://www.linkedin.com/in/tamal-majumder/
----
+___
 Education 🎓:
-Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
-Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
----
+* Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
+* Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
+___
 
 Technical Skills 🛠️:
 
