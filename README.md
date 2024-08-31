@@ -44,6 +44,35 @@ Team Player 🤝 | Collaborative 🤝
 I transitioned from a background in Physics to Data Science due to my strong affinity for computational skills, coding, and numerical analysis. Encouraged by professors' endorsements for my computational abilities during graduation and master's academic years, I discovered my passion for data science and machine learning, ultimately leading me to pursue a career in this dynamic field.
 
 ## Projects 🚧:
+
+
+
+
+## Coursework Assignments and MSc Thesis
+1. MSc Thesis - Advancing Computational Particle Physics through Data and Deep Learning
+
+Objective: Employ data analysis, simulation, and machine learning to enhance our understanding of particle collisions at the LHC and contribute to advancements in particle physics beyond the Standard Model.
+Link: https://github.com/
+
+2. Course Assignments
+
+Link: https://github.com/
+
+Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
+
+Classification Algorithms and Optimization Techniques: Developed Logistic Regression and explored techniques like Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent for binary and multi-class classification.
+
+Artificial Neural Network (ANN) for Classification: Built numpy-based ANN, performed binary/multi-class tasks on MNIST data, grasped feedforward, backpropagation, and gradient descent.
+
+Convolutional Neural Network (CNN) for Image Classification: Created numpy-powered CNN, trained on MNIST images, understood convolution, pooling, and fully connected layers.
+
+Recurrent Neural Network (RNN) for Time Series Data: Implemented basic RNN from scratch, applied on time series, and grasped sequential data handling.
+
+Solving Differential Equations with PINN: Used PyTorch-based PINN to solve static bar problems' differential equations under specific loads.
+
+Elasticity Partial Differential Equations using PINN: Applied PINN to solve elasticity-related partial differential equations for 2D planes, merging physics with neural networks.
+
+DeepONet Architecture for Integration Operator: Implemented DeepONet, trained to learn integration, showcasing neural network's mathematical concept mastery.
 <!---
 t-majumder/t-majumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
