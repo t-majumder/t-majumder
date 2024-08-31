@@ -51,7 +51,7 @@ I transitioned from a background in Physics to Data Science due to my strong aff
 ## Coursework Assignments and MSc Thesis
 1. MSc Thesis - Deep Learning for DHM Phase image Reconstruction , Segmentation and Classifcation under (Prof. Kedar Khare)
 
-Objective: Employ data analysis, simulation, and machine learning to enhance our understanding of particle collisions at the LHC and contribute to advancements in Biomedical Image Processing.
+Objective: Employ data analysis, simulation, and machine learning to Reconstruct DHM Phase Images and contribute to advancements in Biomedical Image Processing.
  - Analyzed 1000 (512 x 512 px) high resolution phase images of Blood sample from 1000 individuals.
  - Engineered a U-Net model for reconstruction and segmentation of blood sample images, after Data Augmentation. 
  - Trained several DNN models and choose ResNet-50 to classify healthy cells vs cells from a smokers blood sample.
