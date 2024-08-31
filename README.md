@@ -5,7 +5,7 @@ Professional Profile:
 Name: Tamal Majumder 👨‍🎓
 
 Aspiring Data Scientist 📊 | MSc. Physics 🌌
-Email: @gmail.com | LinkedIn Profile: www.linkedin.com/in/tamalmajumder
+Email: @gmail.com | LinkedIn Profile:https://www.linkedin.com/in/tamal-majumder/
 
 Education 🎓:
 Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
