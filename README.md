@@ -3,18 +3,17 @@ Professional Profile:
 
 * Resumes: https://github.com/i-majumder/Resume-tamal
 * Name: Tamal Majumder 👨‍🎓
-***
+
 - Aspiring Data Scientist 📊 | MSc. Physics 🌌
 - Email: @gmail.com | LinkedIn Profile: https://www.linkedin.com/in/tamal-majumder/
-***
+
 ## Education 🎓:
 * Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
 * Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
-___
 
 ## Technical Skills 🛠️:
 
-- Programming Languages: Python 🐍 • Elementary C++
+- Programming Languages: Python 🐍 • Elementary C and Java
 
 - Database: MySQL.
 
@@ -34,17 +33,17 @@ ___
 
 ## Current Aim 🚀:
 Dedicated to securing a data science role where I can apply my skills and contribute to data-driven decision-making.
-___
+
 ## Professional Goals 🎯:
 Initial Years: Seeking to master data science skills, achieve continuous learning, and gain hands-on experience through collaborative projects.
 Future Aspiration: Aspiring to secure a Data Science Management position, leveraging my technical expertise and leadership skills.
 Soft Skills 💬:
 Team Player 🤝 | Collaborative 🤝
 
-Motivation for Transition 💡:
+## Motivation for Transition 💡:
 I transitioned from a background in Physics to Data Science due to my strong affinity for computational skills, coding, and numerical analysis. Encouraged by professors' endorsements for my computational abilities during graduation and master's academic years, I discovered my passion for data science and machine learning, ultimately leading me to pursue a career in this dynamic field.
-___
-Projects 🚧:
+
+## Projects 🚧:
 <!---
 t-majumder/t-majumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
