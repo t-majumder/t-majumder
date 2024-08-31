@@ -58,21 +58,21 @@ Link: https://github.com/
 
 Link: https://github.com/
 
-Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
+* Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
 
-Classification Algorithms and Optimization Techniques: Developed Logistic Regression and explored techniques like Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent for binary and multi-class classification.
+* Classification Algorithms and Optimization Techniques: Developed Logistic Regression and explored techniques like Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent for binary and multi-class classification.
 
-Artificial Neural Network (ANN) for Classification: Built numpy-based ANN, performed binary/multi-class tasks on MNIST data, grasped feedforward, backpropagation, and gradient descent.
+* Artificial Neural Network (ANN) for Classification: Built numpy-based ANN, performed binary/multi-class tasks on MNIST data, grasped feedforward, backpropagation, and gradient descent.
 
-Convolutional Neural Network (CNN) for Image Classification: Created numpy-powered CNN, trained on MNIST images, understood convolution, pooling, and fully connected layers.
+* Convolutional Neural Network (CNN) for Image Classification: Created numpy-powered CNN, trained on MNIST images, understood convolution, pooling, and fully connected layers.
 
-Recurrent Neural Network (RNN) for Time Series Data: Implemented basic RNN from scratch, applied on time series, and grasped sequential data handling.
+* Recurrent Neural Network (RNN) for Time Series Data: Implemented basic RNN from scratch, applied on time series, and grasped sequential data handling.
 
-Solving Differential Equations with PINN: Used PyTorch-based PINN to solve static bar problems' differential equations under specific loads.
+* Solving Differential Equations with PINN: Used PyTorch-based PINN to solve static bar problems' differential equations under specific loads.
 
-Elasticity Partial Differential Equations using PINN: Applied PINN to solve elasticity-related partial differential equations for 2D planes, merging physics with neural networks.
+* Elasticity Partial Differential Equations using PINN: Applied PINN to solve elasticity-related partial differential equations for 2D planes, merging physics with neural networks.
 
-DeepONet Architecture for Integration Operator: Implemented DeepONet, trained to learn integration, showcasing neural network's mathematical concept mastery.
+* DeepONet Architecture for Integration Operator: Implemented DeepONet, trained to learn integration, showcasing neural network's mathematical concept mastery.
 <!---
 t-majumder/t-majumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
