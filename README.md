@@ -46,9 +46,9 @@ I transitioned from a background in Physics to Data Science due to my strong aff
 ## Projects 🚧:
 
 1. Facial Recognition System - EigenFaces vs FisherFaces (Paper Implementation) From Scratch:
-   https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-
+   - https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-
 2. Video Monitoring System using Kmeans Clustering and Gaussian Mixture Model (Paper Implementation):
-   https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model
+   - https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model
 3. Stock Price Prediction and MPT-Driven Portfolio Optimization :
    
 4. Customer Churn Retention and Business Decisions :
