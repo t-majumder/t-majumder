@@ -1,11 +1,7 @@
-# P O R T P F O L I O
-Professional Profile:
-
+# TAMAL MAJUMDER
 * Resumes: https://github.com/i-majumder/Resume-tamal
 * Name: Tamal Majumder 👨‍🎓
-- Aspiring Data Scientist 📊 | MSc. Physics 🌌
 - Email: @gmail.com | LinkedIn Profile: https://www.linkedin.com/in/tamal-majumder/
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
 
 ## Education 🎓:
 - Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
@@ -67,3 +63,4 @@ Objective: Employ data analysis, simulation, and machine learning to Reconstruct
  - Trained several DNN models and choose ResNet-50 to classify healthy cells vs cells from a smokers blood sample.
  - Achieved MSE of 0.0085 for reconstruction and for classifcation achieved accuracy of 91.2% and F1 score of 0.932
 * Link: https://github.com/
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
