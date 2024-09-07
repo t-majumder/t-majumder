@@ -24,6 +24,11 @@
 ![StreamLit](https://img.shields.io/badge/StreamLit-364c69?style=flat&logo=StreamLit)
 #### Database: 
 ![SQL](https://img.shields.io/badge/SQL-364c69?style=flat&logo=mysql)
+#### Utilities:
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
 ## Machine Learning : 
 - Machine Learning 📚: Supervised Learning • Unsupervised Learning • Model Deployment 🚀 • Model Optimization ⚙️ • Hyperparameter Tuning • Model Interpretability (SHAP) 🧐 • AutoML (H2O) 🤖 • Scikit-Learn • Classical Algorithms • Tree-Based Algorithms 🌲 • Ensemble-based Algorithms.
 - Natural Language Processing (NLP) 📝: Recurrent Neural Network (RNN) • Hugging Face Transformers 🤗 • Text Classification • Text Generation • Text Summarization 📑 • Topic Modeling • Machine Translation 🌍 • Question Answering 💬 • NLP Data Preprocessing 🧹 • Generative AI with LLMs • Image-Text Multi-models 🖼️📝 • Semantic Search 🔍 • Vector Database • Named Entity Extraction.
