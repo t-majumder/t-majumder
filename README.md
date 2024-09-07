@@ -26,9 +26,14 @@
 <a href="https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-">
   <img src="https://github.com/t-majumder/t-majumder/blob/main/Untitled-1.png" alt="Facial Recognition System" width="200">
 </a>
-1. Facial Recognition System - EigenFaces vs FisherFaces (Paper Implementation) From Scratch -> [ L i n k ](https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-)
-2. Video Monitoring System using Kmeans Clustering and Gaussian Mixture Model (Paper Implementation) -> [ L i n k ](https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model)
-3. Stock Price Prediction and MPT-Driven Portfolio Optimization -> [ L i n k ](https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model)
+<a href="https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model">
+  <img src="https://github.com/t-majumder/t-majumder/blob/main/video%20monitoring.png" width="200">
+</a>
+<a href="https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model">
+  <img src="https://github.com/t-majumder/t-majumder/blob/main/stock.png" width="200">
+</a>
+
+
 4. Customer Churn Retention and Business Decisions -> [ L i n k ](https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model)
 5. 
 
