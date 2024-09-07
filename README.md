@@ -1,5 +1,6 @@
 # P O R T P F O L I O
 Professional Profile:
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
 
 * Resumes: https://github.com/i-majumder/Resume-tamal
 * Name: Tamal Majumder 👨‍🎓
@@ -75,9 +76,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Tamal Majumder</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-majumder" alt="t-majumder" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
