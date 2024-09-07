@@ -1,10 +1,5 @@
 # P O R T P F O L I O
 Professional Profile:
-[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
-[<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
 
 * Resumes: https://github.com/i-majumder/Resume-tamal
 * Name: Tamal Majumder 👨‍🎓
@@ -26,7 +21,14 @@ Professional Profile:
 - Additional Skills : Time Series Forecasting ⏳📈• Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️ • Linux.
 - Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK • SpaCy • Gensim • Word2Vec • GloVe .
 - Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau • Plotly • Seaborn • Matplotlib .
-- 
+
+- #### Languages:
+
+![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ## Current Aim 🚀:
 Dedicated to securing a data science role where I can apply my skills and contribute to data-driven decision-making.
 
