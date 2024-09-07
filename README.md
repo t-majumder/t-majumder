@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/t-majumder/t-majumder/blob/main/Linkedin%20Background.jpg))]((https://rishavchanda.io))
+[![MasterHead]((https://github.com/t-majumder/t-majumder/blob/main/Linkedin%20Background.jpg))]
 # TAMAL MAJUMDER
 <img align="right" alt="Coding" width="400" src="https://github.com/t-majumder/t-majumder/blob/main/Linkedin%20Background.jpg">
 * Resumes: https://github.com/i-majumder/Resume-tamal
