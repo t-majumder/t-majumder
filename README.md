@@ -86,16 +86,16 @@ You can click the Preview link to take a look at your changes.
 <summary>GitHub Statistics</summary>
 <div style="display: flex; align-items: center; justify-content: center;flex-direction: column;">
     <div align="center">
-  <a href="https://github.com/hari31416">
+  <a href="https://github.com/t-majumder">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari31416&theme=algolia&card_width=338" />
 </div>
 <div align="center">
-  <a href="https://github.com/hari31416">
+  <a href="https://github.com/t-majumder">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari31416&hide_border=true&&theme=algolia&card_width=700" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/hari31416">
+  <a href="https://github.com/t-majumder">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari31416&langs_count=8&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&hide_border=true&theme=algolia&card_width=700" />
   </a>
 <div>
