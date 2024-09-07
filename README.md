@@ -6,9 +6,10 @@ Professional Profile:
 - Aspiring Data Scientist 📊 | MSc. Physics 🌌
 - Email: @gmail.com | LinkedIn Profile: https://www.linkedin.com/in/tamal-majumder/
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
+
 ## Education 🎓:
-* Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
-* Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
+- Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
+- Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
 
 ## Technical Skills 🛠️:
 
@@ -57,8 +58,7 @@ I transitioned from a background in Physics to Data Science due to my strong aff
 
 5. 
 
-
-## Coursework Assignments and MSc Thesis
+## MSc Thesis
 1. MSc Thesis - Deep Learning for DHM Phase image Reconstruction , Segmentation and Classifcation under (Prof. Kedar Khare)
 
 Objective: Employ data analysis, simulation, and machine learning to Reconstruct DHM Phase Images and contribute to advancements in Biomedical Image Processing.
@@ -67,19 +67,3 @@ Objective: Employ data analysis, simulation, and machine learning to Reconstruct
  - Trained several DNN models and choose ResNet-50 to classify healthy cells vs cells from a smokers blood sample.
  - Achieved MSE of 0.0085 for reconstruction and for classifcation achieved accuracy of 91.2% and F1 score of 0.932
 * Link: https://github.com/
-
-2. Course Assignments
-Link: https://github.com/
-
-* Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
-* Classification Algorithms and Optimization Techniques: Developed Logistic Regression and explored techniques like Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent for binary and multi-class classification.
-* Artificial Neural Network (ANN) for Classification: Built numpy-based ANN, performed binary/multi-class tasks on MNIST data, grasped feedforward, backpropagation, and gradient descent.
-* Convolutional Neural Network (CNN) for Image Classification: Created numpy-powered CNN, trained on MNIST images, understood convolution, pooling, and fully connected layers.
-* Recurrent Neural Network (RNN) for Time Series Data: Implemented basic RNN from scratch, applied on time series, and grasped sequential data handling.
-* Solving Differential Equations with PINN: Used PyTorch-based PINN to solve static bar problems' differential equations under specific loads.
-* Elasticity Partial Differential Equations using PINN: Applied PINN to solve elasticity-related partial differential equations for 2D planes, merging physics with neural networks.
-* DeepONet Architecture for Integration Operator: Implemented DeepONet, trained to learn integration, showcasing neural network's mathematical concept mastery.
-<!---
-t-majumder/t-majumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
