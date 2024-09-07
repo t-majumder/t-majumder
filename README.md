@@ -23,7 +23,9 @@
 - Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK • SpaCy • Gensim • Word2Vec • GloVe .
 - Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau • Plotly • Seaborn • Matplotlib .
 ## Projects 🚧:
-
+<a href="https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-">
+  <img src="https://github.com/t-majumder/t-majumder/blob/main/Untitled-1.jpg" alt="Facial Recognition System" width="200">
+</a>
 1. Facial Recognition System - EigenFaces vs FisherFaces (Paper Implementation) From Scratch -> [ L i n k ](https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-)
 2. Video Monitoring System using Kmeans Clustering and Gaussian Mixture Model (Paper Implementation) -> [ L i n k ](https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model)
 3. Stock Price Prediction and MPT-Driven Portfolio Optimization -> [ L i n k ](https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model)
