@@ -1,12 +1,11 @@
 # P O R T P F O L I O
 Professional Profile:
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
 
 * Resumes: https://github.com/i-majumder/Resume-tamal
 * Name: Tamal Majumder 👨‍🎓
 - Aspiring Data Scientist 📊 | MSc. Physics 🌌
 - Email: @gmail.com | LinkedIn Profile: https://www.linkedin.com/in/tamal-majumder/
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
 ## Education 🎓:
 * Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
 * Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
