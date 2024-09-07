@@ -41,11 +41,11 @@ Objective: Employ data analysis, simulation, and machine learning to Reconstruct
 * Link: https://github.com/
 ## <p align="center">Some Of My Creative Stuff :<p>
 <head>
-<body>
-  <div class="image-container">
-    <img width="240" src="https://github.com/t-majumder/t-majumder/blob/main/Poster%202.jpg" alt="Image 1">
-    <img width="240" src="https://github.com/t-majumder/t-majumder/blob/main/project_20220103_2213359-01.png" alt="Image 2">
-    <img width="240" src="https://github.com/t-majumder/t-majumder/blob/main/Poster%201.jpg" alt="Image 3">
+<body >
+  <div class="image-container" align='center'>
+    <img width="250" src="https://github.com/t-majumder/t-majumder/blob/main/Poster%202.jpg" alt="Image 1">
+    <img width="250" src="https://github.com/t-majumder/t-majumder/blob/main/project_20220103_2213359-01.png" alt="Image 2">
+    <img width="250" src="https://github.com/t-majumder/t-majumder/blob/main/Poster%201.jpg" alt="Image 3">
   </div>
 </body>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=t-majumder&label=Profile%20views&color=0e75b6&style=flat" alt="t-majumder" /> </p>
