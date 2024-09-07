@@ -12,7 +12,11 @@ Professional Profile:
 
 ## Technical Skills 🛠️:
 
-- Programming Languages: Python 🐍 • Elementary C and Java
+- Programming Languages: ![Python](https://img.shields.io/badge/python-364c69?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-364c69?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++-364c69?style=flat&logo=cplusplus)
+![Bash](https://img.shields.io/badge/Bash-364c69?style=flat&logo=gnu-bash&logoColor=white)
+
 - Database: MySQL.
 - Machine Learning 📚: Supervised Learning • Unsupervised Learning • Model Deployment 🚀 • Model Optimization ⚙️ • Hyperparameter Tuning • Model Interpretability (SHAP) 🧐 • AutoML (H2O) 🤖 • Scikit-Learn • Classical Algorithms • Tree-Based Algorithms 🌲 • Ensemble-based Algorithms.
 - Natural Language Processing (NLP) 📝: Recurrent Neural Network (RNN) • Hugging Face Transformers 🤗 • Text Classification • Text Generation • Text Summarization 📑 • Topic Modeling • Machine Translation 🌍 • Question Answering 💬 • NLP Data Preprocessing 🧹 • Generative AI with LLMs • Image-Text Multi-models 🖼️📝 • Semantic Search 🔍 • Vector Database • Named Entity Extraction.
