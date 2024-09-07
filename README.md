@@ -32,10 +32,9 @@
 <a href="https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model">
   <img src="https://github.com/t-majumder/t-majumder/blob/main/stock.png" width="200">
 </a>
-
-
-4. Customer Churn Retention and Business Decisions -> [ L i n k ](https://github.com/t-majumder/Video-Monitoring-system-using-K-Means-Clustering-and-Gaussian-Mixture-Model)
-5. 
+<a href="https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-">
+  <img src="https://github.com/t-majumder/t-majumder/blob/main/Untitled-1.png" alt="Facial Recognition System" width="200">
+</a>
 
 ## MSc Thesis
 1. MSc Thesis - Deep Learning for DHM Phase image Reconstruction , Segmentation and Classifcation under (Prof. Kedar Khare)
