@@ -20,7 +20,7 @@
 - Computer Vision 🖼️: Image Processing • Convolutional Neural Networks (CNN) 🧠📷 • Image Segmentation • Object Detection 🕵️ • Image Classification • Transfer Learning 🔄 • Feature Extraction • Image Semantic Search 🔍🖼️.
 - Model Deployment Tools 🌐: Streamlit • Flask • FastAPI 🚀 • Gradio 📡 • Heroku • Docker Containerization 🐳 • HTML and CSS 🎨.
 - Additional Skills : Time Series Forecasting ⏳📈• Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️ • Linux.
-- Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK • SpaCy • Gensim • Word2Vec • GloVe .
+- Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK • SpaCy • Gensim • Word2Vec • GloVe
 - Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau • Plotly • Seaborn • Matplotlib .
 ## Projects 🚧:
 <a href="https://github.com/t-majumder/Face-Recognition-system-using-PCA-Eigenfaces-approach-">
