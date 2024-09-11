@@ -7,7 +7,7 @@
 ## Education 🎓:
 - Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
 - Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
-
+ 
 ## Technical Skills 🛠️:
 
 #### Programming Languages: ![Python](https://img.shields.io/badge/python-364c69?style=flat&logo=python)  ![C++](https://img.shields.io/badge/C++-364c69?style=flat&logo=cplusplus)  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
