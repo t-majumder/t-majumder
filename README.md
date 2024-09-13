@@ -3,7 +3,7 @@
 
 - Resumes: https://github.com/i-majumder/Resume-tamal
 - LinkedIn Profile: https://www.linkedin.com/in/tamal-majumder/
-
+  
 ## Education 🎓:
 - Master of Science (MSc) in Physics, Indian Institute of Technology (IIT Delhi) 🏛️, 2023-2025
 - Bachelor of Science (BSc) in Physics Honours, Asutosh College, Calcutta University 🏫, 2020-2023
